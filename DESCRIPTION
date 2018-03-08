@@ -1,0 +1,11 @@
+Package: huipackage
+Type: Package
+Title: First R package
+Version: 0.1.0
+Author: Hui Li
+Maintainer: Hui Li <hui@none.com>
+Description: This is a sample package for homework
+License: NA
+Encoding: UTF-8
+LazyData: true
+Suggests: testthat
